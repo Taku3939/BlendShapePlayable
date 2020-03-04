@@ -62,50 +62,50 @@ namespace BlendShapePlayable
     static class ShapeInfo
     {
         //ALL
-        public const string shape1 = "Angry";
-        public const string shape2 = "Fun";
-        public const string shape3 = "Joy";
-        public const string shape4 = "Sorrow";
-        public const string shape5 = "Surprised";
+        public const string shape1 = "1.Angry";
+        public const string shape2 = "2.Fun";
+        public const string shape3 = "3.Joy";
+        public const string shape4 = "4.Sorrow";
+        public const string shape5 = "5.Surprised";
         //BRW
-        public const string shape6 = "Angry";
-        public const string shape7 = "Fun";
-        public const string shape8 = "Joy";
-        public const string shape9 = "Sorrow";
-        public const string shape10 = "Surprised";
+        public const string shape6 = "6.Angry";
+        public const string shape7 = "7.Fun";
+        public const string shape8 = "8.Joy";
+        public const string shape9 = "9.Sorrow";
+        public const string shape10 = "10.Surprised";
         //EYE
-        public const string shape11 = "Natural";
-        public const string shape12 = "Angry";
-        public const string shape13 = "Close";
-        public const string shape14 = "Close_R";
-        public const string shape15 = "Close_L";
-        public const string shape16 = "Joy";
-        public const string shape17 = "Joy_R";
-        public const string shape18 = "Joy_L";
-        public const string shape19 = "Sorrow";
-        public const string shape20 = "Surprised";
-        public const string shape21 = "Extra";
+        public const string shape11 = "11.Natural";
+        public const string shape12 = "12.Angry";
+        public const string shape13 = "13.Close";
+        public const string shape14 = "14.Close_R";
+        public const string shape15 = "15.Close_L";
+        public const string shape16 = "16.Joy";
+        public const string shape17 = "17.Joy_R";
+        public const string shape18 = "18.Joy_L";
+        public const string shape19 = "19.Sorrow";
+        public const string shape20 = "20.Surprised";
+        public const string shape21 = "21.Extra";
         //MTH
-        public const string shape22 = "Up";
-        public const string shape23 = "Down";
-        public const string shape24 = "Angry";
-        public const string shape25 = "Neutral";
-        public const string shape26 = "Fun";
-        public const string shape27 = "Joy";
-        public const string shape28 = "Sorrow";
-        public const string shape29 = "Surprised";
-        public const string shape30 = "A";
-        public const string shape31 = "I";
-        public const string shape32 = "U";
-        public const string shape33 = "E";
-        public const string shape34 = "O";
+        public const string shape22 = "22.Up";
+        public const string shape23 = "23.Down";
+        public const string shape24 = "24.Angry";
+        public const string shape25 = "25.Neutral";
+        public const string shape26 = "26.Fun";
+        public const string shape27 = "27.Joy";
+        public const string shape28 = "28.Sorrow";
+        public const string shape29 = "29.Surprised";
+        public const string shape30 = "30.A";
+        public const string shape31 = "31.I";
+        public const string shape32 = "32.U";
+        public const string shape33 = "33.E";
+        public const string shape34 = "34.O";
         //HA
-        public const string shape35 = "Fung1";
-        public const string shape36 = "Fung1_Low";
-        public const string shape37 = "Fung1_Up";
-        public const string shape38 = "Fung2";
-        public const string shape39 = "Fung2_Low";
-        public const string shape40 = "Fung2_Up";
-        public const string shape41 = "EyeExtra_On";
+        public const string shape35 = "35.Fung1";
+        public const string shape36 = "36.Fung1_Low";
+        public const string shape37 = "37.Fung1_Up";
+        public const string shape38 = "38.Fung2";
+        public const string shape39 = "39.Fung2_Low";
+        public const string shape40 = "40.Fung2_Up";
+        public const string shape41 = "41.EyeExtra_On";
     }
 }
